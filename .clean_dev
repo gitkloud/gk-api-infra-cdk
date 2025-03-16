@@ -1,0 +1,6 @@
+rm -rf .idea/
+rm -rf **/.pytest_cache
+rm -rf .venv/
+rm -rf cdk.out
+rm -rf .pytest_cache
+rm -rf **/__pycache__
